@@ -1,0 +1,32 @@
+.menu1{
+    letter-spacing: 2px;
+    border: none;
+}
+.menu1:hover{
+    background-color:  purple;
+    border-radius: 30px;
+    display: inline-block;
+    transition: 1s ;
+}
+.form1{
+    border-radius: 30px;
+    text-decoration: none;
+}
+.form2{
+    border-radius: 30px;
+    text-decoration: none;
+    background-color: transparent;
+    border: 2px solid purple;
+}
+.form2:hover{
+    background-color: purple;
+    color: black;
+    transition: 1s;
+    border: none;
+}
+.brandnav{
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 40px;
+    letter-spacing: 2px;
+}

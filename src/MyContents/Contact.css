@@ -1,0 +1,65 @@
+.contact1{
+    color: white;
+   margin-top: 120px;
+}
+.contact2{
+    background-color: rgba(255, 255, 255, 0.181);
+    color: rgba(255, 255, 255, 0.66);
+    width: 600px;
+    height: 350px;
+    margin-bottom: 90px;
+    border-radius: 10px;
+}
+.contact2:hover{
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+.pass{
+    border-radius: 5px;
+     width: 100%;
+     background-color: transparent;
+     border: 2px solid purple;
+     color: white;
+     height: 40px;
+}
+.form4{
+    border-radius: 10px;
+    text-decoration: none;
+    background-color: transparent;
+    border: 2px solid purple;
+}
+.form4:hover{
+    background-color: purple;
+    color: black;
+    transition: 1s;
+    border: none;
+}
+.email1{
+    margin-top: 20px;
+}
+h1{
+    color: rgba(255, 255, 255, 0.748);
+    align-items: center;
+}
+
+.email1
+{
+    width: 30rem;
+}
+.self2{
+    width: 450px;
+    height: 450px;
+    overflow: hidden;
+    margin-top: -364px;
+}
+.link{
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.66);
+}
+.link:hover{
+    color: rgba(255, 255, 255, 0.66);
+}
+.link1{
+    color: rgba(255, 255, 255, 0.66);
+}
+

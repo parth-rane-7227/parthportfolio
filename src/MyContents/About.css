@@ -1,0 +1,48 @@
+.self{
+    height: 550px;
+    width: 390px;
+}
+.self:hover{
+    transform: scale(1.1);
+    transition: 1s ease-out;
+}
+.row1{
+    margin-top: 80px;
+    margin-bottom: 100px;
+}
+.aboutme{
+    text-align: left;
+    font-size: 80px;
+    color: white;
+    margin-bottom: 20px;
+}
+#text4{
+    color: purple;
+}
+#text3{
+    font-size: 25px;
+    color: white;
+    text-align: left;
+    margin-bottom: 40px;
+    
+}
+p{
+    color: rgba(255, 255, 255, 0.701);
+    text-align: justify;
+}
+.button10:hover{
+    background-color: purple;
+    color: white;
+    transition: 1s;
+}
+.button10{
+    font-weight: bold;
+    font-size: 18px;
+    border-radius: 30px;
+    text-decoration: none; 
+    border: 3px solid purple;  
+    background-color: purple 
+}
+.slide{
+    margin-top: -40px;
+}

@@ -1,0 +1,108 @@
+.card1{
+    background-color: rgba(255, 255, 255, 0.181);
+    color: white;
+    width: 400px;
+    height: 400px;
+}
+.card1:hover{
+    background-color: rgba(255, 255, 255, 0.252);
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+.card2{
+    background-color: rgba(255, 255, 255, 0.181);
+    color: white;
+    width: 400px;
+    height: 400px;
+}
+.card2:hover{
+    background-color: rgba(255, 255, 255, 0.252);
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+.card3{
+    background-color: rgba(255, 255, 255, 0.181);
+    color: white;
+    width: 400px;
+    height: 400px;
+}
+.card3:hover{
+    background-color: rgba(255, 255, 255, 0.252);
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+.card4{
+    background-color: rgba(255, 255, 255, 0.181);
+    color: white;
+    width: 400px;
+    height: 450px;
+}
+.card4:hover{
+    background-color: rgba(255, 255, 255, 0.252);
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+.card5{
+    background-color: rgba(255, 255, 255, 0.181);
+    color: white;
+    width: 400px;
+    height: 450px;
+}
+.card5:hover{
+    background-color: rgba(255, 255, 255, 0.252);
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+.card6{
+    background-color: rgba(255, 255, 255, 0.181);
+    color: white;
+    width: 400px;
+    height: 450px;
+}
+.card6:hover{
+    background-color: rgba(255, 255, 255, 0.252);
+    transform: scale(1.1);
+    transition: 1s ease;
+}
+#text1{
+    font-size: 60px;
+    color: purple;
+}
+#text2{
+    color: rgba(255, 255, 255, 0.71);
+}
+.image11{
+    margin-top: 10px;
+    width: 150px;
+}
+.image2{
+    margin-top: 40px;
+    width: 140px;
+}
+.image3{
+    margin-top:     0px;
+    width: 180px;
+}
+.image4{
+    margin-top: 10px;
+    width: 160px;
+}
+.image5{
+    margin-top: 10px;
+    width: 210px;
+}
+.image6{
+    margin-top: 30px;
+    width: 340px;
+}
+.button2:hover{
+    background-color: purple;
+    color: white;
+    transition: 1s;
+}
+.button2{
+    border-radius: 30px;
+    text-decoration: none; 
+    border: 3px solid purple;  
+    background-color: transparent; 
+}
