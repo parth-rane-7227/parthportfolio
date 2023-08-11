@@ -30,7 +30,7 @@ export const Menu = () => {
             <Nav.Link href="#/About" className='text-white menu1 offset-2'>About</Nav.Link>
             <Nav.Link href="#/Skills" className='text-white menu1 offset-2'>Skills</Nav.Link>
             <Nav.Link href="#/Project" className='text-white menu1 offset-2'>Projects</Nav.Link>
-            <Nav.Link href="#/Contact" className='text-white menu1 offset-2'>Contact</Nav.Link>
+            <Nav.Link href="#/Contact" className='text-white menu1 offset-2'>contact</Nav.Link>
           </Nav>
           <Form className="d-flex">
             <Form.Control
